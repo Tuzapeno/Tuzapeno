@@ -19,9 +19,7 @@
 
 ###
 
-<div align="center">
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/0c951c3e-7850-4bef-b2f4-350a1354de7d)
-</div>
 
 ###
 
