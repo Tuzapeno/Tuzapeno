@@ -1,8 +1,8 @@
-<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"  />
+<h1 align="left">Hello and Welcome! 👋<br>I'm Arthur</h1>
 
 ###
 
-<h1 align="left">Hello and Welcome!<br>I'm Arthur</h1>
+<h5 align="left">https://tuzapeno.github.io/portfolio/</h5>
 
 ###
 
@@ -16,10 +16,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h4 align="center">https://tuzapeno.github.io/portfolio/</h4>
 
 ###
 
