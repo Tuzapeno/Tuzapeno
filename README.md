@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">https://tuzapeno.github.io/portfolio/</h5>
+<h5 align="left"><a href="https://tuzapeno.github.io/portfolio/" target="_blank">Portfolio</a></h5>
 
 ###
 
