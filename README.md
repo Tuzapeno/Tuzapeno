@@ -8,15 +8,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="http://discordapp.com/users/275309567565365248" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-neumann-salerno/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/0c951c3e-7850-4bef-b2f4-350a1354de7d)
@@ -31,6 +22,15 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <a href="http://discordapp.com/users/275309567565365248" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-neumann-salerno/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h3 align="center">Technologies</h3>
 
