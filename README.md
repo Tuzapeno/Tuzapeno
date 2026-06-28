@@ -1,56 +1,56 @@
-<div align="center">
-  <h1 align="left">Greetings! 👋<br>I'm Arthur</h1>
-</div>
+# Greetings! I'm Arthur 👋
 
-<h2 align="left"><a href="https://tuzapeno.github.io/portfolio/" target="_blank">Portfolio</a></h2>
+### [Portfolio](https://tuzapeno.github.io/portfolio/)
 
-###
+---
 
-<div align="center">
-  <img align="left" src="https://github.com/user-attachments/assets/0c951c3e-7850-4bef-b2f4-350a1354de7d" alt="Alt text" width="50%">
-  <div align="right">
-    <br>
-    <br>
-    <h3 align="center">Contact</h3>
-    <div align="center">
-    <a href="http://discordapp.com/users/275309567565365248">
-      <img src="https://skillicons.dev/icons?i=discord" />
-    </a>
-    <a href="https://www.linkedin.com/in/arthur-neumann-salerno/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://github.com/user-attachments/assets/0c951c3e-7850-4bef-b2f4-350a1354de7d" alt="Profile Visual" width="100%">
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <h4>Contact</h4>
+      <a href="http://discordapp.com/users/275309567565365248" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+      </a>
+      <a href="https://www.linkedin.com/in/arthur-neumann-salerno/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
+---
 
-###
+### Technologies
 
-<h3 align="center">Technologies</h3>
+**Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,tailwindcss,nodejs,php,laravel" alt="Web Dev" />
+</p>
 
-###
+**Software & Game Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,lua,unity,godot" alt="Software and Games" />
+</p>
 
-<br clear="both">
+**Databases & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,vscode,neovim,postman" alt="Tools" />
+</p>
 
-<div>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css&perline=3" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss,php,laravel,nodejs,mysql,postgresql&perline=3" />
-  <img src="https://skillicons.dev/icons?i=c,cs,docker,unity,godot,java&perline=3" />
-  <img src="https://skillicons.dev/icons?i=lua,python,vscode,neovim,postman&perline=3" />
-</div>
+---
 
+### Operating Systems
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,windows" alt="Operating Systems" />
+</p>
 
-<h3 align="center">OS</h3>
+---
 
-###
-
-<img src="https://skillicons.dev/icons?i=linux,windows,arch&perline=6" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuzapeno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuzapeno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="175" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tuzapeno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuzapeno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="175" alt="languages graph" />
+</p>
