@@ -1,5 +1,7 @@
 # Greetings! I'm Arthur 👋
 
+Back-end software developer, mostly using PHP and Javascript.
+
 ### [Portfolio](https://tuzapeno.github.io/portfolio/)
 
 ---
