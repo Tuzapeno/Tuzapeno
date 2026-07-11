@@ -52,7 +52,8 @@ Back-end software developer, mostly using PHP and Javascript.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuzapeno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuzapeno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="175" alt="languages graph" />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Tuzapeno&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+  <img src="https://streak-stats.demolab.com?user=Tuzapeno&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
