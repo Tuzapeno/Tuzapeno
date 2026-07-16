@@ -1,4 +1,5 @@
-# Greetings! I'm Arthur 👋
+# Greetings! 
+# I'm Arthur
 
 Back-end software developer, mostly using PHP and Javascript.
 
