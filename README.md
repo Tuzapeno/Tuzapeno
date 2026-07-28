@@ -55,6 +55,5 @@ Back-end software developer, mostly using PHP and Javascript.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Tuzapeno&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-  <img src="https://streak-stats.demolab.com?user=Tuzapeno&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuzapeno&bg_color=1a1b27&color=ffffff&line=51bdae&point=ffffff&area=true&hide_border=true">
